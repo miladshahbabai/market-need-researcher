@@ -1,0 +1,6 @@
+{
+  "name": "NicheHunter AI",
+  "description": "مشاور هوشمند شما برای کشف نیازهای روزمره و توسعه اپلیکیشن‌های ساده",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
